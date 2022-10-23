@@ -1,6 +1,12 @@
 # react-typescript-mui-rtk-query-parcel-template
 
-React TypeScript Parcel MUI RTK Query Template. Cloned from [react-typescript-mui-parcel-template](https://github.com/remarkablemark/react-typescript-mui-parcel-template).
+React TypeScript Parcel MUI RTK Query Template.
+
+Cloned from [react-typescript-mui-parcel-template](https://github.com/remarkablemark/react-typescript-mui-parcel-template).
+
+Inspired by [RTK Query](https://redux-toolkit.js.org/rtk-query/overview) example [React with GraphQL](https://redux-toolkit.js.org/rtk-query/usage/examples#react-with-graphql) (see [CodeSandbox](https://codesandbox.io/embed/github/reduxjs/redux-toolkit/tree/master/examples/query/react/graphql?module=%2Fsrc%2Fapp%2Fservices%2Fposts.ts&runonclick=1)).
+
+Demo uses [Star Wars GraphQL API](https://studio.apollographql.com/public/star-wars-swapi/home).
 
 ## Prerequisites
 
