@@ -15,16 +15,16 @@ export default function Header() {
             Template
           </Typography>
 
-          <Link
+          <IconButton
             aria-label="Go to GitHub repository"
             color="inherit"
-            component={IconButton}
+            component={Link}
             href="https://github.com/remarkablemark/react-typescript-mui-rtk-query-parcel-template"
             target="_blank"
             rel="noopener noreferrer"
           >
             <GitHubIcon />
-          </Link>
+          </IconButton>
         </Toolbar>
       </Container>
     </AppBar>
