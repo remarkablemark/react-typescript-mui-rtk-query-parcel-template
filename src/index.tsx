@@ -17,5 +17,5 @@ createRoot(document.getElementById('root')!).render(
     <ApiProvider api={api}>
       <App />
     </ApiProvider>
-  </StrictMode>
+  </StrictMode>,
 );
