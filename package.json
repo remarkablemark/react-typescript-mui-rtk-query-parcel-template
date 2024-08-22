@@ -16,7 +16,7 @@
   "devDependencies": {
     "@commitlint/cli": "19.4.0",
     "@commitlint/config-conventional": "19.2.2",
-    "@emotion/react": "11.13.0",
+    "@emotion/react": "11.13.3",
     "@emotion/styled": "11.13.0",
     "@fontsource/roboto": "5.0.14",
     "@mui/icons-material": "5.16.7",
