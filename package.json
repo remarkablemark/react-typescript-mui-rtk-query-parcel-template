@@ -7,7 +7,7 @@
   "scripts": {
     "build": "parcel build",
     "clean": "rm -rf .parcel-cache dist",
-    "lint": "eslint --ignore-path .gitignore .",
+    "lint": "eslint .",
     "lint:fix": "npm run lint -- --fix",
     "prepare": "husky",
     "start": "parcel --open",
@@ -18,6 +18,9 @@
     "@commitlint/config-conventional": "19.5.0",
     "@emotion/react": "11.13.3",
     "@emotion/styled": "11.13.0",
+    "@eslint/compat": "1.2.0",
+    "@eslint/eslintrc": "3.1.0",
+    "@eslint/js": "9.12.0",
     "@fontsource/roboto": "5.1.0",
     "@mui/icons-material": "5.16.7",
     "@mui/material": "5.16.7",
