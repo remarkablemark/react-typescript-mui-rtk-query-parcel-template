@@ -17,6 +17,9 @@ updates:
         patterns:
           - '@eslint/*'
           - eslint
+      mui:
+        patterns:
+          - '@mui/*'
       parcel:
         patterns:
           - parcel
