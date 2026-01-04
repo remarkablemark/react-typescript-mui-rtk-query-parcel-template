@@ -27,7 +27,9 @@ export default function Films() {
       }
       sx={{ width: '100%', maxWidth: 360, bgcolor: 'background.paper' }}
     >
-      {data?.map((film) => <Film key={film.id} title={film.title} />)}
+      {data?.map((film) => (
+        <Film key={film.id} title={film.title} />
+      ))}
     </List>
   );
 }
