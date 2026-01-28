@@ -28,7 +28,7 @@
     "@parcel/transformer-webmanifest": "2.16.3",
     "@reduxjs/toolkit": "^2.11.2",
     "@rtk-query/graphql-request-base-query": "^2.3.2",
-    "@types/react": "19.2.9",
+    "@types/react": "19.2.10",
     "@types/react-dom": "19.2.3",
     "@typescript-eslint/eslint-plugin": "8.54.0",
     "@typescript-eslint/parser": "8.54.0",
