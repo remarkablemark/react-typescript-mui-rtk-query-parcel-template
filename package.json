@@ -39,7 +39,7 @@
     "graphql": "16.14.2",
     "graphql-request": "7.4.0",
     "husky": "9.1.7",
-    "lint-staged": "17.0.7",
+    "lint-staged": "17.0.8",
     "parcel": "2.16.4",
     "prettier": "3.8.4",
     "process": "0.11.10",
