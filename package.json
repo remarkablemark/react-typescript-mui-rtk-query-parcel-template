@@ -14,8 +14,8 @@
     "tsc": "tsc --noEmit"
   },
   "devDependencies": {
-    "@commitlint/cli": "21.0.2",
-    "@commitlint/config-conventional": "21.0.2",
+    "@commitlint/cli": "21.1.0",
+    "@commitlint/config-conventional": "21.1.0",
     "@emotion/react": "11.14.0",
     "@emotion/styled": "11.14.1",
     "@eslint/compat": "2.1.0",
